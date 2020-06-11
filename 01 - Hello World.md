@@ -9,7 +9,7 @@ int main()
 }
 ```
 Now let's dissect each element of this code.
-`#include <stdio.h>` - The #include is used to include contents of a file in our code. Here, we're including standard input output header file or stdio.h. This file contains all the code for standard input output.\
+`#include <stdio.h>` - The #include is used to include contents of a file in our code. Here, we're including standard input output header file or stdio.h. This file contains all the code for standard input output.
 - `int main()` - Here we are initializing a function called `main()`. Now main function is different then any other function, we'll see in the functions section.
 - `printf("Hello World\n");` - In this line `printf()` is used, which is a function that prints the our message "Hello World". The `printf` is not a part of C language, its a function whose definintion is given in `stdio.h` library.\
 If you noticed well, there is a `;` in the end of the line, this semicolon terminates our statement of calling the function `printf()`.
