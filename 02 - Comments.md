@@ -34,4 +34,4 @@ int main()
   return 0;
 }
 ```
-Here any text written after `//` and on the same line is treated as a comment.
+Here any text written after `//` is treated as a comment but not the text above, below and before it.
