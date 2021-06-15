@@ -10,4 +10,5 @@ You can name your variable whatever you want but there are certain restrictions 
 - The number of letters in a variable should not exceed 31 letters.
 - You can add numbers to variable however the name of the variable should always start with a letter.
 - `_` (underscore) is counted as a letter.
-- The variable name should not be a reserved keyword.  
+- The variable name should not be a reserved keyword.
+- Avoid starting your variable name with `_` as libraries often use many variable names that start with `_`.
