@@ -6,4 +6,7 @@ Operators as the name suggest are used to peform operations. In any programming 
 
 ### Unary `++` operator
 
-This operator is also known as postfix increment operator. The operator is used to increment the value of a numeric variable by 1. \
+### Postfix `++`
+This operator is also known as postfix increment operator. The operator is used to increment the value of a numeric variable by 1.
+
+### Prefix `++`
